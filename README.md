@@ -2,6 +2,6 @@
 
 * Prompts and solutions for thirty JavaScript code challenges. 
 
-## Technologies Used:
+### Technologies Used:
 
-* Javascript # JavaScript-Code-Challenges
+* Javascript 
